@@ -1,0 +1,32 @@
+{
+    "name": "vscode-better-developer-extension-pack",
+    "displayName": "Better Developer Extension Pack",
+    "description": "An extension pack to improve your default developer experience.",
+    "version": "0.0.1",
+    "publisher": "gquittet",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:gquittet/vscode-better-developer-extension-pack.git"
+    },
+    "bugs": {
+        "url": "https://github.com/gquittet/vscode-better-developer-extension-pack/issues",
+        "email": "guillaume.quittet@gmail.com"
+    },
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "aaron-bond.better-comments",
+        "EditorConfig.EditorConfig",
+        "formulahendry.code-runner",
+        "hbenl.vscode-test-explorer",
+        "humao.rest-client",
+        "lokalise.i18n-ally",
+        "pflannery.vscode-versionlens",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "wwm.better-align"
+    ]
+}
