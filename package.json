@@ -19,7 +19,6 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "aaron-bond.better-comments",
         "EditorConfig.EditorConfig",
         "formulahendry.code-runner",
         "hbenl.vscode-test-explorer",
