@@ -2,7 +2,7 @@
     "name": "vscode-better-developer-extension-pack",
     "displayName": "Better Developer Extension Pack",
     "description": "An extension pack to improve your default developer experience.",
-    "version": "0.0.2",
+    "version": "0.1.0",
     "publisher": "gquittet",
     "repository": {
         "type": "git",
