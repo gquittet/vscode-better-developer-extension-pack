@@ -10,6 +10,7 @@ To fix this, I made this extension pack that add some superpower to VSCode.
 - hbenl.vscode-test-explorer
 - humao.rest-client
 - lokalise.i18n-ally
+- oderwat.indent-rainbow
 - pflannery.vscode-versionlens
 - VisualStudioExptTeam.vscodeintellicode
 - wwm.better-align
